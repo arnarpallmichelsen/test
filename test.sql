@@ -1,1 +1,3 @@
-select * from mytable
+select * from mytable;
+
+--Min første endring
